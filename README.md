@@ -1,1 +1,5 @@
-# quanta.com
+👋 Hi, I’m sukhamay bardolai.
+👀 I’m interested in python,photgraphy, videography etc...
+🌱 I’m currently a geophysice student at IIT(ISM) DHANBAD
+📫 How to reach me, From contact no - 7478193782
+😄THANKU FOR VISITING MY WEBSITE. here in this website you will see information , all type of project, book pdf, notes ,science related fact,photography etc....
