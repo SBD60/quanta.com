@@ -1,5 +1,6 @@
 welcome to my account
 
+
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -71,9 +72,9 @@ welcome to my account
             <img
               src="image.png.png"
               alt="Person"
-              class="h-[600px]"
+              class="h-[550px]"
               background="bg-black"
-              width="430px"
+              width="410px"
             />
           </div>
         </div>
